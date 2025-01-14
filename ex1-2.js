@@ -1,2 +1,2 @@
-function imgchange3() {document.getElementById('logo').src = './image/ミンギュ１.jpg';}
-function imgchange4() {document.getElementById('logo').src = './image/ミンギュ２.jpeg';}
+function imgchange3() {document.getElementById('logo').src = './image/セブチロゴ.jpg';}
+function imgchange4() {document.getElementById('logo').src = './image/17.png';}
