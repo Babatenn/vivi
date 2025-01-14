@@ -1,3 +1,4 @@
 body{ background-color:#CCCCFF; }
 h1 { color: #000000; }
 h2 { color: #000080; }
+th, td{ border: dashed thick black; }
